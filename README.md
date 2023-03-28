@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/f74WQIhbzBKAusL2v1/200w.webp?cid=ecf05e475yw0k07euye6yzrg2fhdmfq27fx7af79zm7n967k&rid=200w.webp&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47q866w5dgsz725cn7twztxfk1n5zwac8g8jnde1wp&rid=200.webp&ct=g" width="200"/>
 </div>
+
+
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="reddit Badge"/>
