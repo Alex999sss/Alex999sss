@@ -3,7 +3,6 @@
 </div>
 
 
-
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="reddit Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -28,9 +27,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+Participation in projects
 
 
+![image](https://user-images.githubusercontent.com/112434087/201517462-df1685dc-15c7-476b-a44e-d8fd4afc16fd.png)
+ <img src="https://img.shields.io/badge/Tester-MASSA-e41c1f"/> <img src="https://img.shields.io/badge/Tester-Sui-6fbcf0"/>
+
+Design Instruments
+
+
+![image](https://user-images.githubusercontent.com/112434087/201518105-0402eb2a-ada5-41f3-afa2-cd49fadd3b5d.png) ![image](https://user-images.githubusercontent.com/112434087/201518112-008ac413-7753-4dad-bda2-912dbadc0e62.png)
 
 
 
