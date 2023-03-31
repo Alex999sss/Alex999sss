@@ -1,13 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47q866w5dgsz725cn7twztxfk1n5zwac8g8jnde1wp&rid=200.webp&ct=g" width="200"/>
-</div>
 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="reddit Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
